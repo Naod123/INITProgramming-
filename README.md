@@ -8,3 +8,4 @@
      
 * The Manhattan Project involved one of the largest scientific collaborations ever undertaken. Out of it emerged countless new technologies, going far beyond the harnessing of nuclear fission. The development of early computing benefited enormously from the Manhattan Project’s innovation, especially with the Los Alamos laboratory’s developments in the field both during and after the war.
 ### :key: Storage 
+* Storage is a mechanism that enables a computer to retain data, either temporarily or permanently. Storage devices such as flash drives and hard disks are a fundamental component of most digital devices since they allow users to preserve all kinds of information such as videos, documents, pictures and raw data.
